@@ -14,7 +14,7 @@ Fraudulent activities in credit card transactions can lead to significant financ
 
 
 ## Dataset
-The dataset used for this project is named `creditcard.csv`. 
+The dataset used for this project is named `creditcard.csv`. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
 
 ## Implementation
 The script is implemented in Python and uses the `pandas`, `numpy`, and `scikit-learn` libraries. It involves loading the dataset, exploring its characteristics, under-sampling for class balance, and training a logistic regression model.
